@@ -3,9 +3,9 @@ You can use this component to show Up and Down arrows to your keyboard in iPhone
 And for Android it will work as it is normal keyboard.
 
 ### How to use :
-after clone write bolow commands
-npm install
-react-native run-ios
+<p>After clone write bolow commands<br>
+npm install<br>
+react-native run-ios</p>
 
 ## Output :
 
