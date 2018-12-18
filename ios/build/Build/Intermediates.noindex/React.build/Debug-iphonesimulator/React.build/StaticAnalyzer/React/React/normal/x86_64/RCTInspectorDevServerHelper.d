@@ -1,0 +1,9 @@
+dependencies: \
+  /Users/swapnilnandapure/Documents/Swapnil_Data/ReactNative/GitRepo/TextInputWithUpDownArrow/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.mm \
+  /Users/swapnilnandapure/Documents/Swapnil_Data/ReactNative/GitRepo/TextInputWithUpDownArrow/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/swapnilnandapure/Documents/Swapnil_Data/ReactNative/GitRepo/TextInputWithUpDownArrow/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/swapnilnandapure/Documents/Swapnil_Data/ReactNative/GitRepo/TextInputWithUpDownArrow/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h \
+  /Users/swapnilnandapure/Documents/Swapnil_Data/ReactNative/GitRepo/TextInputWithUpDownArrow/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/swapnilnandapure/Documents/Swapnil_Data/ReactNative/GitRepo/TextInputWithUpDownArrow/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/swapnilnandapure/Documents/Swapnil_Data/ReactNative/GitRepo/TextInputWithUpDownArrow/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/swapnilnandapure/Documents/Swapnil_Data/ReactNative/GitRepo/TextInputWithUpDownArrow/node_modules/react-native/React/Base/RCTUtils.h

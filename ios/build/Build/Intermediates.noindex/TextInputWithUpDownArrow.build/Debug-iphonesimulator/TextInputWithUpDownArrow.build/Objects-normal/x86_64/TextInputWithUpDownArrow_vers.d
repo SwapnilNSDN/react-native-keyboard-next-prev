@@ -1,0 +1,2 @@
+dependencies: \
+  /Users/swapnilnandapure/Documents/Swapnil_Data/ReactNative/GitRepo/TextInputWithUpDownArrow/ios/build/Build/Intermediates.noindex/TextInputWithUpDownArrow.build/Debug-iphonesimulator/TextInputWithUpDownArrow.build/DerivedSources/TextInputWithUpDownArrow_vers.c
